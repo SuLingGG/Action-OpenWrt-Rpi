@@ -18,7 +18,7 @@ git clone https://github.com/KyleRicardo/MentoHUST-OpenWrt-ipk
 
 # Add ServerChan
 git clone https://github.com/tty228/luci-app-serverchan
-
+git clone https://github.com/gzhechu/openwrt-usb-modeswitch-official
 # Add OpenClash
 git clone https://github.com/vernesong/OpenClash
 
